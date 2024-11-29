@@ -1,0 +1,8 @@
+*.json
+.terraform/
+*.tfstate
+*.backup
+*.hcl
+plan.out
+venv/
+*.env
